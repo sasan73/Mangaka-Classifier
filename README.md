@@ -1,2 +1,2 @@
 # Mangaka-Classifier
-Using the fastai library I will implement transfer learning to classify the art work of Manga writers. 
+Using Pytorch and fastai libraries I will classify 4 popular manga artists based of their most popular work.  
